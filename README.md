@@ -32,13 +32,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@RazvanDusa-i9l" target="_blank">
+  <a href="www.youtube.com/@RazvanDusa-i9l" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/ra2vandusa/" target="_blank">
+  <a href="www.instagram.com/ra2vandusa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="http://discord.com/users/razvandusa" target="_blank">
+  <a href="discord.com/users/razvandusa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="linkedin.com/in/razvan-dusa-7bb380334" target="_blank">
