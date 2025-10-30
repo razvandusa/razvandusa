@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Razvan Dusa</h1>
 <h3 align="left">I am currently studying computer science at Babeș-Bolyai University</h3>
 
-- 🌱 I’m currently learning for **CompTIA A+**
-
 - 📫 How to reach me **razvandusa0608@gmail.com**
 
 ###
